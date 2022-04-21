@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/primitive">
+        <file>resources/primitives/banana.png</file>
+        <file>resources/primitives/quad.png</file>
+        <file>resources/primitives/triangle.png</file>
+    </qresource>
+    <qresource prefix="/tf">
+        <file>resources/tf/tf.png</file>
+    </qresource>
+</RCC>

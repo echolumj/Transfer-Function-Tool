@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file alias="vert.spv">vert.spv</file>
+    <file alias="frag.spv">frag.spv</file>
+  </qresource>
+</RCC>
